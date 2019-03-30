@@ -6,7 +6,6 @@
   - Thomas 
   - Mark
   - Simoen
-  - Barnett
   - Chako
   - Tanav
 
