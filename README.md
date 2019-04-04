@@ -8,6 +8,7 @@
   - Simoen
   - Chako
   - Tanav
+  - Barnett
 
  - Other People You Can Meet
   - Ming
